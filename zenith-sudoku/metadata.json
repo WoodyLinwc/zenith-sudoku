@@ -1,0 +1,5 @@
+{
+  "name": "Zenith Sudoku",
+  "description": "A modern, responsive Sudoku game featuring algorithmic board generation and difficulty settings.",
+  "requestFramePermissions": []
+}
